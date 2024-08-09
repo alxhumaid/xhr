@@ -10,8 +10,7 @@ filename = "district_data.csv"
 
 header_written = False
 # Define the basic authentication credentials
-username = "stateuser"
-password = "state@1234"
+
 
 # Define the headers (if required)
 headers = {
