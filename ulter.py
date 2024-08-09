@@ -7,8 +7,7 @@ import json
 url = "https://dashboard.pmjay.gov.in/pmjaytest14/api/pmjdashboard/carddrive/1.0"
 
 # Define the basic authentication credentials
-username = "stateuser"
-password = "state@1234"
+
 retry=10
 finaldata=[]
 
